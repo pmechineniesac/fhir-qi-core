@@ -681,6 +681,7 @@
         "valueInteger": 42
       } ]
     } ],
+    "name": "EffectiveDataRequirements",
     "status": "active",
     "type": {
       "coding": [ {
@@ -1077,7 +1078,7 @@
   "title": "Antithrombotic Therapy By End of Hospital Day 2FHIR",
   "status": "draft",
   "experimental": false,
-  "date": "2023-12-21T19:53:16+00:00",
+  "date": "2024-01-03T03:47:13+00:00",
   "publisher": "The Joint Commission",
   "contact": [ {
     "telecom": [ {

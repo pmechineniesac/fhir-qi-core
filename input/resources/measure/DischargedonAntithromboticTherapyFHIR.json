@@ -502,6 +502,7 @@
         "valueInteger": 31
       } ]
     } ],
+    "name": "EffectiveDataRequirements",
     "status": "active",
     "type": {
       "coding": [ {
@@ -871,7 +872,7 @@
   "title": "Discharged on Antithrombotic TherapyFHIR",
   "status": "draft",
   "experimental": false,
-  "date": "2023-12-21T19:53:18+00:00",
+  "date": "2024-01-03T03:47:14+00:00",
   "publisher": "The Joint Commission",
   "contact": [ {
     "telecom": [ {

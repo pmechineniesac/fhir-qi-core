@@ -291,6 +291,7 @@
         "valueInteger": 16
       } ]
     } ],
+    "name": "EffectiveDataRequirements",
     "status": "active",
     "type": {
       "coding": [ {
@@ -1195,7 +1196,7 @@
   "title": "Cataracts: 20/40 or Better Visual Acuity within 90 Days Following Cataract SurgeryFHIR",
   "status": "draft",
   "experimental": false,
-  "date": "2023-12-21T19:53:18+00:00",
+  "date": "2024-01-03T03:47:14+00:00",
   "publisher": "American Academy of Ophthalmology",
   "contact": [ {
     "telecom": [ {

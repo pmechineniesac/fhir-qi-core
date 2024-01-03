@@ -63,7 +63,7 @@
       "birthDate": "1974-01-02"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Patient/610c90c9-f387-40f8-9bd7-710d20dfd6f0"
     }
   }, {
@@ -99,7 +99,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca6295fb8484628b8de1dcc"
     }
   }, {
@@ -119,7 +119,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Coverage/5fa041501c76ba66d99591ea"
     }
   }, {
@@ -145,7 +145,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MedicationAdministration/5ca6295fb8484628b8de1dcd"
     }
   }, {
@@ -179,7 +179,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Procedure/5ca6295fb8484628b8de1dce"
     }
   }, {
@@ -219,7 +219,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Organization/Organization-123456"
     }
   }, {
@@ -237,7 +237,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Practitioner/practitioner-123456"
     }
   }, {
@@ -332,7 +332,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MeasureReport/601dae36-5bf9-4639-a0b9-1aa367413172"
     }
   } ]

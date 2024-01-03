@@ -63,7 +63,7 @@
       "birthDate": "1974-01-02"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Patient/541ccffb-c1be-4c94-ab24-168d52e3a36b"
     }
   }, {
@@ -99,7 +99,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca62961b8484628b8de1e81"
     }
   }, {
@@ -135,7 +135,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca62961b8484628b8de1e82"
     }
   }, {
@@ -155,7 +155,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Coverage/5fa041591c76ba66d995928f"
     }
   }, {
@@ -198,7 +198,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Procedure/device-application-8a09"
     }
   }, {
@@ -237,7 +237,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MedicationAdministration/rivaroxaban-for-vte-prophylaxis-8a13"
     }
   }, {
@@ -277,7 +277,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Organization/Organization-123456"
     }
   }, {
@@ -295,7 +295,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Practitioner/practitioner-123456"
     }
   }, {
@@ -392,7 +392,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MeasureReport/f4abc668-e5cc-491c-99e0-9ecd3ffa8e7d"
     }
   } ]

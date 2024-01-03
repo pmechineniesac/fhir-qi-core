@@ -520,6 +520,7 @@
         "valueInteger": 29
       } ]
     } ],
+    "name": "EffectiveDataRequirements",
     "status": "active",
     "type": {
       "coding": [ {
@@ -1039,7 +1040,7 @@
   "title": "Appropriate Testing for PharyngitisFHIR",
   "status": "draft",
   "experimental": false,
-  "date": "2023-12-21T19:53:15+00:00",
+  "date": "2024-01-03T03:47:13+00:00",
   "publisher": "National Committee for Quality Assurance",
   "contact": [ {
     "telecom": [ {

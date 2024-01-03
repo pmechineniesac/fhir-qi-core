@@ -63,7 +63,7 @@
       "birthDate": "1974-01-02"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Patient/1d907390-04db-46f5-b429-955aa427e815"
     }
   }, {
@@ -104,7 +104,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca6295eb8484628b8de1da1"
     }
   }, {
@@ -140,7 +140,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca6295eb8484628b8de1da2"
     }
   }, {
@@ -160,7 +160,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Coverage/5fa041691c76ba66d99593a0"
     }
   }, {
@@ -187,7 +187,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MedicationAdministration/5ca6295eb8484628b8de1da3"
     }
   }, {
@@ -220,7 +220,7 @@
       "recordedDate": "2025-07-20T08:00:00.000+00:00"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Condition/obstetrics-2506"
     }
   }, {
@@ -260,7 +260,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Organization/Organization-123456"
     }
   }, {
@@ -278,7 +278,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Practitioner/practitioner-123456"
     }
   }, {
@@ -375,7 +375,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MeasureReport/059dc048-c661-46a4-b077-db26dfc91a3e"
     }
   } ]

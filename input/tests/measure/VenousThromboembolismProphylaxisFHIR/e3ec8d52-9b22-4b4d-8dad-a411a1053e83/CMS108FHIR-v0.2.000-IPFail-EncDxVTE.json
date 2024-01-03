@@ -63,7 +63,7 @@
       "birthDate": "1974-01-02"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Patient/e3ec8d52-9b22-4b4d-8dad-a411a1053e83"
     }
   }, {
@@ -111,7 +111,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca62960b8484628b8de1e5e"
     }
   }, {
@@ -131,7 +131,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Coverage/5fa041581c76ba66d9959268"
     }
   }, {
@@ -155,7 +155,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MedicationAdministration/5ca62960b8484628b8de1e5f"
     }
   }, {
@@ -188,7 +188,7 @@
       "recordedDate": "2025-11-02T08:00:00.000+00:00"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Condition/venous-thromboembolism-37f9"
     }
   }, {
@@ -228,7 +228,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Organization/Organization-123456"
     }
   }, {
@@ -246,7 +246,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Practitioner/practitioner-123456"
     }
   }, {
@@ -341,7 +341,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MeasureReport/6a3c43bd-0e45-4860-a1b2-7137af8482d9"
     }
   } ]

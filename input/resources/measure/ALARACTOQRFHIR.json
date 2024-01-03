@@ -314,6 +314,7 @@
         "valueInteger": 18
       } ]
     } ],
+    "name": "EffectiveDataRequirements",
     "status": "active",
     "type": {
       "coding": [ {
@@ -526,7 +527,7 @@
   "title": "Excessive Radiation Dose or Inadequate Image Quality for Diagnostic Computed Tomography (CT) in Adults (Facility OQR)FHIR",
   "status": "active",
   "experimental": false,
-  "date": "2023-12-21T19:53:15+00:00",
+  "date": "2024-01-03T03:47:13+00:00",
   "publisher": "Alara Imaging, Inc.",
   "contact": [ {
     "telecom": [ {

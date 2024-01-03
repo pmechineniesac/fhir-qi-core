@@ -63,7 +63,7 @@
       "birthDate": "2003-09-02"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Patient/87532ec3-3437-4936-a22f-c33c134a9779"
     }
   }, {
@@ -104,7 +104,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca62962b8484628b8de1eaf"
     }
   }, {
@@ -124,7 +124,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Coverage/5fa0415b1c76ba66d99592b6"
     }
   }, {
@@ -157,7 +157,7 @@
       "recordedDate": "2025-07-07T08:00:00.000+00:00"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Condition/obstetrics-vte-9e0f"
     }
   }, {
@@ -197,7 +197,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Organization/Organization-123456"
     }
   }, {
@@ -215,7 +215,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Practitioner/practitioner-123456"
     }
   }, {
@@ -308,7 +308,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MeasureReport/0214a999-1f2a-4dec-ad57-4e1c15dd4a9a"
     }
   } ]

@@ -63,7 +63,7 @@
       "birthDate": "2009-01-01"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Patient/316da95d-60f2-4a74-9a28-7a4adb7c0098"
     }
   }, {
@@ -99,7 +99,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca6295cb8484628b8de1d1c"
     }
   }, {
@@ -119,7 +119,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Coverage/5fa041471c76ba66d995914e"
     }
   }, {
@@ -143,7 +143,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MedicationAdministration/5ca6295cb8484628b8de1d1d"
     }
   }, {
@@ -183,7 +183,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Organization/Organization-123456"
     }
   }, {
@@ -201,7 +201,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Practitioner/practitioner-123456"
     }
   }, {
@@ -294,7 +294,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MeasureReport/6681eedb-619d-4ace-a3a0-6d1e8cfc46fe"
     }
   } ]

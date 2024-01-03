@@ -63,7 +63,7 @@
       "birthDate": "1974-01-02"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Patient/e193ed34-00f9-4da1-b347-20d720b30517"
     }
   }, {
@@ -108,7 +108,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca62964b8484628b8de1f39"
     }
   }, {
@@ -128,7 +128,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Coverage/5fa0414a1c76ba66d9959184"
     }
   }, {
@@ -156,7 +156,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Location/intensive-care-unit-1c39"
     }
   }, {
@@ -196,7 +196,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Organization/Organization-123456"
     }
   }, {
@@ -214,7 +214,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Practitioner/practitioner-123456"
     }
   }, {
@@ -307,7 +307,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MeasureReport/15e9ee98-ff57-4f16-b36c-7213b42efd92"
     }
   } ]

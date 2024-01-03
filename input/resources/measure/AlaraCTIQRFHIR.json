@@ -314,6 +314,7 @@
         "valueInteger": 18
       } ]
     } ],
+    "name": "EffectiveDataRequirements",
     "status": "active",
     "type": {
       "coding": [ {
@@ -414,16 +415,6 @@
         "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.666.5.307"
       } ]
     }, {
-      "extension": [ {
-        "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-relatedRequirement",
-        "extension": [ {
-          "url": "targetId",
-          "valueString": "47"
-        }, {
-          "url": "targetProperty",
-          "valueString": "effective"
-        } ]
-      } ],
       "type": "Encounter",
       "profile": [ "http://hl7.org/fhir/us/qicore/StructureDefinition/qicore-encounter" ],
       "mustSupport": [ "type", "period" ],
@@ -432,7 +423,6 @@
         "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.666.5.307"
       } ]
     }, {
-      "id": "47",
       "type": "Observation",
       "profile": [ "http://hl7.org/fhir/us/qicore/StructureDefinition/qicore-observation" ],
       "mustSupport": [ "code", "effective", "value", "value.unit", "value.value", "value.codes" ],
@@ -546,7 +536,7 @@
   "title": "Excessive Radiation Dose or Inadequate Image Quality for Diagnostic Computed Tomography (CT) in Adults (Facility IQR)FHIR",
   "status": "active",
   "experimental": false,
-  "date": "2023-12-21T19:53:17+00:00",
+  "date": "2024-01-03T03:47:14+00:00",
   "publisher": "Alara Imaging, Inc.",
   "contact": [ {
     "telecom": [ {

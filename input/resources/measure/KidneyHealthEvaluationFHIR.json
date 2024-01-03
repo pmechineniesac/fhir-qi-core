@@ -476,6 +476,7 @@
         "valueInteger": 27
       } ]
     } ],
+    "name": "EffectiveDataRequirements",
     "status": "active",
     "type": {
       "coding": [ {
@@ -878,15 +879,15 @@
       }
     } ]
   }, {
+    "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-softwaresystem",
+    "valueReference": {
+      "reference": "Device/cqf-tooling"
+    }
+  }, {
     "id": "effective-data-requirements",
     "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-effectiveDataRequirements",
     "valueReference": {
       "reference": "#effective-data-requirements"
-    }
-  }, {
-    "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-softwaresystem",
-    "valueReference": {
-      "reference": "Device/cqf-tooling"
     }
   } ],
   "url": "https://madie.cms.gov/Measure/KidneyHealthEvaluationFHIR",
@@ -939,7 +940,7 @@
   "title": "Kidney Health EvaluationFHIR",
   "status": "draft",
   "experimental": false,
-  "date": "2023-12-19T22:46:34+00:00",
+  "date": "2024-01-03T03:47:14+00:00",
   "publisher": "National Kidney Foundation",
   "contact": [ {
     "telecom": [ {

@@ -63,7 +63,7 @@
       "birthDate": "1974-01-02"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Patient/d8c5ec26-7d98-4461-899e-edfcfed7b058"
     }
   }, {
@@ -99,7 +99,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca6295fb8484628b8de1da8"
     }
   }, {
@@ -119,7 +119,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Coverage/5fa0414e1c76ba66d99591cf"
     }
   }, {
@@ -171,7 +171,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MedicationRequest/5ca6295fb8484628b8de1daa"
     }
   }, {
@@ -210,7 +210,7 @@
       "authoredOn": "2025-11-01T09:00:00+00:00"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "ServiceRequest/venous-foot-pumps-vfp-8a30"
     }
   }, {
@@ -250,7 +250,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Organization/Organization-123456"
     }
   }, {
@@ -268,7 +268,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Practitioner/practitioner-123456"
     }
   }, {
@@ -363,7 +363,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MeasureReport/9aac2df3-6154-4e65-9d4a-29bb01e9b002"
     }
   } ]

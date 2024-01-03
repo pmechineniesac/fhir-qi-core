@@ -405,6 +405,7 @@
         "valueInteger": 25
       } ]
     } ],
+    "name": "EffectiveDataRequirements",
     "status": "active",
     "type": {
       "coding": [ {
@@ -935,7 +936,7 @@
   "title": "Core Clinical Data Elements for the Hybrid Hospital-Wide (All-Condition, All-Procedure) Risk-Standardized Mortality Measure (HWM)FHIR",
   "status": "draft",
   "experimental": true,
-  "date": "2023-12-21T19:53:16+00:00",
+  "date": "2024-01-03T03:47:13+00:00",
   "publisher": "Centers for Medicare & Medicaid Services (CMS)",
   "contact": [ {
     "telecom": [ {

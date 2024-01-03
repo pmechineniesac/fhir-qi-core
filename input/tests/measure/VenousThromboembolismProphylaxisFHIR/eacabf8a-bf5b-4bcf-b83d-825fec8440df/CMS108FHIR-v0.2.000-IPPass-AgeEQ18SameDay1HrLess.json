@@ -77,7 +77,7 @@
       "birthDate": "2003-09-02"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Patient/eacabf8a-bf5b-4bcf-b83d-825fec8440df"
     }
   }, {
@@ -113,7 +113,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca62962b8484628b8de1eb6"
     }
   }, {
@@ -130,7 +130,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Coverage/5fa0415d1c76ba66d99592ce"
     }
   }, {
@@ -170,7 +170,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Organization/Organization-123456"
     }
   }, {
@@ -188,7 +188,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Practitioner/practitioner-123456"
     }
   }, {
@@ -279,7 +279,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MeasureReport/6abbfe3e-33c4-465b-86ce-c2c80c907d69"
     }
   } ]

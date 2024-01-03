@@ -1027,6 +1027,7 @@
         "valueInteger": 66
       } ]
     } ],
+    "name": "EffectiveDataRequirements",
     "status": "active",
     "type": {
       "coding": [ {
@@ -1732,7 +1733,7 @@
   "title": "Severe Obstetric ComplicationsFHIR",
   "status": "draft",
   "experimental": true,
-  "date": "2023-12-21T19:53:18+00:00",
+  "date": "2024-01-03T03:47:14+00:00",
   "publisher": "The Joint Commission",
   "contact": [ {
     "telecom": [ {

@@ -63,7 +63,7 @@
       "birthDate": "1974-01-02"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Patient/848277a1-a657-4474-a474-733a962f44a5"
     }
   }, {
@@ -104,7 +104,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca6295db8484628b8de1d45"
     }
   }, {
@@ -124,7 +124,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Coverage/5fa0414a1c76ba66d995917b"
     }
   }, {
@@ -151,7 +151,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MedicationAdministration/5ca6295db8484628b8de1d46"
     }
   }, {
@@ -184,7 +184,7 @@
       "recordedDate": "2025-07-14T08:00:00.000+00:00"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Condition/atrial-fibrillation-flutter-f80a"
     }
   }, {
@@ -224,7 +224,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Organization/Organization-123456"
     }
   }, {
@@ -242,7 +242,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Practitioner/practitioner-123456"
     }
   }, {
@@ -337,7 +337,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MeasureReport/5bb598a6-4b53-4e2d-95c2-49a9abafca3a"
     }
   } ]

@@ -63,7 +63,7 @@
       "birthDate": "1974-01-02"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Patient/29ed471c-3393-43d4-a234-2550851b2bc7"
     }
   }, {
@@ -111,7 +111,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca62964b8484628b8de1f21"
     }
   }, {
@@ -147,7 +147,7 @@
       }
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca62964b8484628b8de1f22"
     }
   }, {
@@ -167,7 +167,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Coverage/5fa041481c76ba66d9959157"
     }
   }, {
@@ -200,7 +200,7 @@
       "recordedDate": "2025-10-20T08:00:00.000+00:00"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Condition/obstetrics-vte-2501"
     }
   }, {
@@ -229,7 +229,7 @@
       "performedDateTime": "2025-11-01T09:00:00.000+00:00"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Procedure/device-application-2504"
     }
   }, {
@@ -269,7 +269,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Organization/Organization-123456"
     }
   }, {
@@ -287,7 +287,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Practitioner/practitioner-123456"
     }
   }, {
@@ -384,7 +384,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MeasureReport/a30a9012-1193-43d0-a47c-09f169ad14f3"
     }
   } ]

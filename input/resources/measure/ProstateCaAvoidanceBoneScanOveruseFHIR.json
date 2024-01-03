@@ -512,6 +512,7 @@
         "valueInteger": 27
       } ]
     } ],
+    "name": "EffectiveDataRequirements",
     "status": "active",
     "type": {
       "coding": [ {
@@ -893,7 +894,7 @@
   "title": "Prostate Cancer: Avoidance of Overuse of Bone Scan for Staging Low Risk Prostate Cancer PatientsFHIR",
   "status": "draft",
   "experimental": false,
-  "date": "2023-12-21T19:53:18+00:00",
+  "date": "2024-01-03T03:47:14+00:00",
   "publisher": "Centers for Medicare & Medicaid Services (CMS)",
   "contact": [ {
     "telecom": [ {

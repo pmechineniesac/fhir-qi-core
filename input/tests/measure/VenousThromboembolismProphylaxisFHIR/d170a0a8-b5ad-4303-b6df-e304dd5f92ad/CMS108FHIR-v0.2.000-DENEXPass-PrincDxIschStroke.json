@@ -63,7 +63,7 @@
       "birthDate": "2002-12-01"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Patient/d170a0a8-b5ad-4303-b6df-e304dd5f92ad"
     }
   }, {
@@ -105,7 +105,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Encounter/5ca62962b8484628b8de1eb4"
     }
   }, {
@@ -125,7 +125,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Coverage/5fa041661c76ba66d9959367"
     }
   }, {
@@ -158,7 +158,7 @@
       "recordedDate": "2025-07-13T08:00:00.000+00:00"
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Condition/ischemic-stroke-1c3c"
     }
   }, {
@@ -198,7 +198,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Organization/Organization-123456"
     }
   }, {
@@ -216,7 +216,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "Practitioner/practitioner-123456"
     }
   }, {
@@ -309,7 +309,7 @@
       } ]
     },
     "request": {
-      "method": "POST",
+      "method": "PUT",
       "url": "MeasureReport/b06483ca-c00f-4d6f-97a4-4e648759ca2e"
     }
   } ]
